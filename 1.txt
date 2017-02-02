@@ -1,2 +1,1 @@
 ﻿你好                 Hello!
-这个是测试版本        This is a test version.
